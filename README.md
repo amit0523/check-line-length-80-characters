@@ -8,3 +8,5 @@ having more than 80 characters is also printed at the end of the output.
 The bash script (print_random_length_ascii_lines.sh) prints 1000 ascii lines
 having random lengths. You can use this script to create a test file to test
 this program. You can also change this script according to your requirements.
+
+---- End of README ----
